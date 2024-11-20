@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leo-Donnelly
-- 👀 I’m interested in Quality Assurance Testing and AI
+- 👀 I’m interested in QAT and AI
 - 🌱 I’m currently learning Java
-- 📫 How to reach me through LinkedIn - https://www.linkedin.com/in/leo-donnelly/
+- 📫 Reach me through LinkedIn - https://www.linkedin.com/in/leo-donnelly/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ride a motorbike
 
